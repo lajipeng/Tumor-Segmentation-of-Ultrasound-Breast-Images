@@ -10,6 +10,10 @@ The segmentation of ultrasonic images of breast tumors is very important for med
 
 - Secondly, as the hint says, you are supposed to run the RUN_ME_FIRST.m first.
 
-- Thirdly, as you can see, the folder ***Experiments* **contains four folders and each folder contains one model. You can run the example(i) to test the model. Before you run, please check to add all the path or you will need to recreate the lacking .m file. 
+- Thirdly, as you can see, the folder ***Experiments***contains four folders and each folder contains one model. You can run the example(i) to test the model. Before you run, please check to add all the path or you will need to recreate the lacking .m file. 
 
 - Lastly, you can refer to the folder ***Reports*** if you still have something that you don't understand.
+
+## Acknowledgement
+
+We would like to acknowledge Arturo Rodríguez-Cristerna, Wilfrido Gómez-Flores, and Wagner Coelho de Albuquerque-Pereira, ''BUSAT: A MATLAB Toolbox for Breast Ultrasound Image Analysis'', In: 9th Mexican Congress on Pattern Recognition (MCPR 2017), LNCS 10267, pp. 268-277, 2017. DOI: 10.1007/978-3-319-59226-8_26.
